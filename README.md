@@ -1,4 +1,8 @@
+
+
 # seven_color_music
+
+![Screenshot_2021-03-18-00-26-42-05](https://user-images.githubusercontent.com/31897843/111580222-31ebef00-87dd-11eb-80e4-faec86c13eea.jpg)
 
 A new Flutter project.
 
